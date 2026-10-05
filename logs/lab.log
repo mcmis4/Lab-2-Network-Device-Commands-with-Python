@@ -1,0 +1,127 @@
+2026-10-04 23:12:58,954 - INFO - LAB2_BEGIN
+2026-10-04 23:13:22,206 - INFO - LAB2_CREDENTIALS_ENTERED
+2026-10-04 23:17:59,455 - INFO - LAB2_START
+2026-10-04 23:18:04,457 - INFO - CREDENTIALS_COLLECTED
+2026-10-04 23:26:41,938 - INFO - LAB2_START
+2026-10-04 23:26:46,537 - INFO - CREDENTIALS_COLLECTED
+2026-10-04 23:26:46,733 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-10-04 23:26:49,000 - INFO - Authentication (password) failed.
+2026-10-04 23:26:49,003 - ERROR - CONNECT_FAIL: Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios devnetsandboxiosxec8k.cisco.com:22
+
+
+Authentication failed.
+2026-10-04 23:27:15,003 - INFO - LAB2_START
+2026-10-04 23:28:31,665 - INFO - CREDENTIALS_COLLECTED
+2026-10-04 23:28:31,846 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-10-04 23:28:34,120 - INFO - Authentication (password) failed.
+2026-10-04 23:28:34,123 - ERROR - CONNECT_FAIL: Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios devnetsandboxiosxec8k.cisco.com:22
+
+
+Authentication failed.
+2026-10-04 23:28:54,484 - INFO - LAB2_START
+2026-10-04 23:29:42,704 - INFO - CREDENTIALS_COLLECTED
+2026-10-04 23:29:42,879 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-10-04 23:29:45,151 - INFO - Authentication (password) failed.
+2026-10-04 23:29:45,154 - ERROR - CONNECT_FAIL: Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios devnetsandboxiosxec8k.cisco.com:22
+
+
+Authentication failed.
+2026-10-04 23:30:13,805 - INFO - LAB2_START
+2026-10-04 23:30:36,712 - INFO - CREDENTIALS_COLLECTED
+2026-10-04 23:30:36,885 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-10-04 23:30:37,156 - INFO - Authentication (password) successful!
+2026-10-04 23:30:38,023 - INFO - CONNECT_OK
+2026-10-04 23:36:20,987 - INFO - LAB2_START
+2026-10-04 23:37:11,444 - INFO - CREDENTIALS_COLLECTED
+2026-10-04 23:37:11,614 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-10-04 23:37:11,885 - INFO - Authentication (password) successful!
+2026-10-04 23:37:12,758 - INFO - CONNECT_OK
+2026-10-04 23:37:14,120 - INFO - CMD_RUN:show inventory
+2026-10-04 23:40:46,256 - INFO - LAB2_START
+2026-10-04 23:41:16,149 - INFO - CREDENTIALS_COLLECTED
+2026-10-04 23:41:16,327 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-10-04 23:41:16,592 - INFO - Authentication (password) successful!
+2026-10-04 23:41:17,467 - INFO - CONNECT_OK
+2026-10-04 23:41:17,889 - INFO - CMD_RUN:show version
+2026-10-04 23:41:18,361 - INFO - CMD_RUN:show ip interface brief
+2026-10-04 23:41:18,807 - INFO - CMD_RUN:show inventory
+2026-10-04 23:45:10,183 - INFO - LAB2_START
+2026-10-04 23:45:34,796 - INFO - CREDENTIALS_COLLECTED
+2026-10-04 23:45:34,970 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-10-04 23:45:35,255 - INFO - Authentication (password) successful!
+2026-10-04 23:45:36,121 - INFO - CONNECT_OK
+2026-10-04 23:45:36,695 - INFO - CMD_RUN:show version
+2026-10-04 23:45:37,293 - INFO - CMD_RUN:show ip interface brief
+2026-10-04 23:45:37,839 - INFO - CMD_RUN:show inventory
+2026-10-05 00:03:51,483 - INFO - LAB2_START
+2026-10-05 00:04:21,649 - INFO - CREDENTIALS_COLLECTED
+2026-10-05 00:04:21,870 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-10-05 00:04:22,140 - INFO - Authentication (password) successful!
+2026-10-05 00:04:23,020 - INFO - CONNECT_OK
+2026-10-05 00:04:23,442 - INFO - CMD_RUN:show version
+2026-10-05 00:04:23,928 - INFO - CMD_RUN:show ip interface brief
+2026-10-05 00:04:24,360 - INFO - CMD_RUN:show inventory
+2026-10-05 00:04:24,477 - INFO - PARSE_OK:show version
+2026-10-05 00:04:24,482 - INFO - PARSE_OK:show ip interface brief
+2026-10-05 00:04:24,487 - INFO - PARSE_OK:show inventory
+2026-10-05 00:15:21,007 - INFO - LAB2_START
+2026-10-05 00:15:44,057 - INFO - CREDENTIALS_COLLECTED
+2026-10-05 00:15:44,283 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-10-05 00:15:44,564 - INFO - Authentication (password) successful!
+2026-10-05 00:15:45,451 - INFO - CONNECT_OK
+2026-10-05 00:15:45,974 - INFO - CMD_RUN:show version
+2026-10-05 00:15:46,475 - INFO - CMD_RUN:show ip interface brief
+2026-10-05 00:15:46,939 - INFO - CMD_RUN:show inventory
+2026-10-05 00:15:47,063 - INFO - PARSE_OK:show version
+2026-10-05 00:15:47,067 - INFO - PARSE_OK:show ip interface brief
+2026-10-05 00:15:47,072 - INFO - PARSE_OK:show inventory
+2026-10-05 00:15:47,081 - INFO - REPORT_SAVED
+2026-10-05 00:20:46,652 - INFO - LAB2_START
+2026-10-05 00:21:15,997 - INFO - CREDENTIALS_COLLECTED
+2026-10-05 00:21:16,173 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-10-05 00:21:18,442 - INFO - Authentication (password) failed.
+2026-10-05 00:21:18,444 - ERROR - CONNECT_FAIL: Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios devnetsandboxiosxec8k.cisco.com:22
+
+
+Authentication failed.
+2026-10-05 00:21:31,142 - INFO - LAB2_START
+2026-10-05 00:21:47,039 - INFO - CREDENTIALS_COLLECTED
+2026-10-05 00:21:47,216 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-10-05 00:21:47,483 - INFO - Authentication (password) successful!
+2026-10-05 00:21:48,359 - INFO - CONNECT_OK
+2026-10-05 00:21:48,805 - INFO - CMD_RUN:show version
+2026-10-05 00:21:49,294 - INFO - CMD_RUN:show ip interface brief
+2026-10-05 00:21:49,758 - INFO - CMD_RUN:show inventory
+2026-10-05 00:21:49,896 - INFO - PARSE_OK:show version
+2026-10-05 00:21:49,899 - INFO - PARSE_OK:show ip interface brief
+2026-10-05 00:21:49,902 - INFO - PARSE_OK:show inventory
+2026-10-05 00:21:49,913 - INFO - REPORT_SAVED
+2026-10-05 00:21:49,996 - INFO - LAB2_END
